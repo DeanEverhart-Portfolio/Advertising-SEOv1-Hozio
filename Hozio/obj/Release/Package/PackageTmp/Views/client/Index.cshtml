@@ -1,0 +1,152 @@
+﻿@model IEnumerable<Hozio.Models.client>
+
+@{
+    ViewBag.Title = "HOG";
+}
+
+<h2>HOG - Client Run Status</h2>
+<img src="/media/iconHog0-2.png" title="HOG" alt="HOG" /></a>
+<br />
+@using (Html.BeginForm("Index", "client"))
+{
+    <p>
+        Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search">
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.client1s.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.fullRun)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.dev)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.fullTemplate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.location)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.stringKeyword)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.content)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.fullWriter)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.content1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.content2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.html)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.fullMeta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.seo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.keyword)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.plugin)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.hero)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.hero1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.backup)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.fullBuildExport)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.post)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hog2s.site)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.client1s.name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.fullRun)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.dev)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.fullTemplate)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.stringKeyword)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.content)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.fullWriter)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.content1)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.content2)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.html)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.fullMeta)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.seo)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.plugin)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.hero)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.hero1)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.backup)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.fullBuildExport)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.post)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hog2s.site)
+    </td>
+    <td>
+        @Html.ActionLink("Details", "Details", new { id = item.clientID })
+    </td>
+</tr>
+    }
+
+</table>

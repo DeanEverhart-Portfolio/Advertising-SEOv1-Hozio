@@ -1,0 +1,90 @@
+﻿@model Hozio.Models.contact
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>contact</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.client1s.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.client1s.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.client1s.domain)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.client1s.domain)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.contact1s.fullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.contact1s.fullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.contact1s.fullPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.contact1s.fullPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.contact1s.phoneGatekeeper)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.contact1s.phoneGatekeeper)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.contact1s.email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.contact1s.email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.contact1s.website)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.contact1s.website)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.contact1s.fullAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.contact1s.fullAddress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.contact1s.phoneNote)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.contact1s.phoneNote)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.contactID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

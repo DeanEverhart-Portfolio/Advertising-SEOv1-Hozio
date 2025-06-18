@@ -1,0 +1,85 @@
+﻿@model IEnumerable<Hozio.Models.contact>
+
+@{
+    ViewBag.Title = "Admin";
+}
+
+<br />
+
+<h2><b>Admin</b></h2>
+<br />
+
+<h4><b>Contacts</b></h4>
+
+<table class="table">
+    <tr>
+        <th> </th>
+        <th> </th>
+    </tr>
+    @foreach ()
+        {
+        <tr>
+            </td>
+            <h4>@Html.ActionLink("Contacts", "Index", "contact1")</h4>
+            </td>
+            <td>
+                Contact
+            </td>
+        </tr>
+    }
+</table>
+
+
+
+<p>
+    <h4>@Html.ActionLink("Contacts", "Index", "contact1")</h4>
+</p>
+
+<p>
+
+    <h4>@Html.ActionLink("Contacts (Join)", "Index1", "contact")  Contacts and Clients</h4>
+</p>
+<br />
+
+<h4><b>Clients</b></h4>
+
+<p>
+    <h4>@Html.ActionLink("Clients", "Index", "client1")</h4>
+</p>
+
+<p>
+    <h4>@Html.ActionLink("Clients (Join)", "client1", "contact")  Clients and Contacts</h4>
+</p>
+
+<br />
+
+<h4><b>Ahref</b></h4>
+
+<p>
+    <h4>@Html.ActionLink("Xmas", "Index", "ahref")  Ahref</h4>
+</p>
+
+<p>
+    <h4>@Html.ActionLink("Xmas (Join)", "Index", "site")  Clients and Ahref</h4>
+</p>
+<br />
+
+<h4><b>Hog Sheet</b></h4>
+
+<p>
+    <h4>@Html.ActionLink("Hog Sheet", "Index", "hog2")  HOG</h4>
+</p>
+
+<p>
+    <h4>@Html.ActionLink("Hog Sheet (Join)", "Index", "client")  Clients and HOG</h4>
+</p>
+<br />
+
+<h4><b>Documents</b></h4>
+
+<p>
+    <h4>@Html.ActionLink("Documents", "Index1", "document")  Documents</h4>
+</p>
+<p>
+    <h4>@Html.ActionLink("Hozi-U", "Index", "document")  Documents Subset (Filter)</h4>
+</p>

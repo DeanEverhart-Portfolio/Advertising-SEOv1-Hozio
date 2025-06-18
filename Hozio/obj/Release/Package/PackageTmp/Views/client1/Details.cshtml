@@ -1,0 +1,169 @@
+﻿@model Hozio.Models.client1
+
+@{
+    ViewBag.Title = "Client";
+}
+
+<h2>Client</h2>
+
+<div>
+    <h4>Details</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.domain)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.domain)
+        </dd>
+
+        <hr />
+        <h4>Contact</h4>
+        <br />
+
+        <dt>
+            @*@Html.DisplayNameFor(model => model.contacts)*@
+        </dt>
+
+        <dd>
+            <table class="table"
+                <tr>
+                    <th>Name</th>
+                    <th>Phone</th>
+                    <th>Gatekeeper</th>
+                    <th>Email</th>
+                    <th>Website</th>
+                    <th>Address</th>
+                    <th>Note</th>
+                </tr>
+                @foreach (var item in Model.contacts)
+                {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.contact1s.fullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.contact1s.fullPhone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.contact1s.phoneGatekeeper)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.contact1s.email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.contact1s.website)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.contact1s.fullAddress)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.contact1s.phoneNote)
+                </td>
+            </tr>
+                }
+            </table>
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.crm)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.crm)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.crm1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.crm1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.category)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.category)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.category1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.category1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.sort)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sort)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tag)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tag)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.boolFlag)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.boolFlag)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.select)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.select)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.start)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.start)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.inactive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.inactive)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.hold)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hold)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.client1ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

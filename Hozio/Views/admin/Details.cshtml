@@ -1,0 +1,98 @@
+﻿@model Hozio.Models.admin
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>admin</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.column01)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.column01)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.column02)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.column02)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.column03)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.column03)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.column04)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.column04)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.column05)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.column05)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.column06)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.column06)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.column07)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.column07)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.column08)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.column08)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.column09)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.column09)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.column10)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.column10)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.adminID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

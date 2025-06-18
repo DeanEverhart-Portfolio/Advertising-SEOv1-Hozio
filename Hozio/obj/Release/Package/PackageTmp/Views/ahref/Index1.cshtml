@@ -1,0 +1,272 @@
+﻿@model IEnumerable<Hozio.Models.ahref>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<img src="/media/iconX-MasTree0-175.png" title="HOG" alt="HOG" /></a>
+<br />
+<br />
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.domain)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.value)
+        </th>
+        @*<th>
+                @Html.DisplayNameFor(model => model.stringValue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.designator)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.type1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.category)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.category1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tier)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.boolTier)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.stringTier)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.rank)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.stringRank)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.note)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.note1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.text)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.text1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.sort)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.sort1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tag)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tag1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.label)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.label1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.boolFlag)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.flag)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.boolFlag1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.flag1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.select)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.select1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.start)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.end)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dateEnd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.inactive)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dateInactive)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.hold)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dateHold)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.recordCreated)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.recordInactive)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dateRecordInactive)
+            </th>*@
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.domain)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.value)
+            </td>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.stringValue)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.designator)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.type)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.type1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.category)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.category1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.tier)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.boolTier)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.stringTier)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.rank)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.stringRank)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.note)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.note1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.text)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.text1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.sort)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.sort1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.tag)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.tag1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.label)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.label1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.boolFlag)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.flag)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.boolFlag1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.flag1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.select)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.select1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.start)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.end)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.dateEnd)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.inactive)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.dateInactive)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.hold)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.dateHold)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.recordCreated)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.recordInactive)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.dateRecordInactive)
+                </td>*@
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ahrefID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ahrefID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ahrefID })
+            </td>
+        </tr>
+    }
+
+</table>

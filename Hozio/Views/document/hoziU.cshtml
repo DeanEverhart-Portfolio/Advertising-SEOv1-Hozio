@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Hozio.Models.document>
+
+@{
+    ViewBag.Title = "Hozi-U";
+}
+
+@*<h2>Hozi-U</h2>*@
+<br />
+<img src="/media/logoHoziU0-5.png" title="HOG" alt="HOG" /></a>
+
+<h2>Training Resources</h2>
+
+<h3><b>Interns</b></h3>
+
+<p>
+    @*@Html.ActionLink("Create New", "Create")*@
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.category)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <a href="@item.access">@Html.DisplayFor(modelItem => item.name)</a>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.category)
+            </td>
+
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.documentID }) |
+            </td>
+        </tr>
+    }
+
+</table>

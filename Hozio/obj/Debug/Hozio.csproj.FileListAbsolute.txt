@@ -1,0 +1,1388 @@
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\obj\Debug\Hozio.csprojAssemblyReference.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\Hozio.dll.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\csc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\csc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\csc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\csi.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\csi.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\csi.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.AppContext.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Console.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.IO.Compression.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Security.Claims.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.ValueTuple.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\vbc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\vbc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\vbc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\Antlr3.Runtime.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\EntityFramework.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\EntityFramework.SqlServer.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\Newtonsoft.Json.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\System.Web.Helpers.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\System.Web.Mvc.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\System.Web.Optimization.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\System.Web.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\System.Web.WebPages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\System.Web.WebPages.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\WebGrease.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\EntityFramework.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\EntityFramework.SqlServer.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\System.Web.Helpers.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\System.Web.Mvc.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\System.Web.Optimization.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\System.Web.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\System.Web.WebPages.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\System.Web.WebPages.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\Newtonsoft.Json.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\Antlr3.Runtime.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.CopyComplete
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\obj\Debug\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\obj\Debug\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\Hozio.dll.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\csc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\csc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\csc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\csi.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\csi.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\csi.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.AppContext.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Console.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.IO.Compression.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Security.Claims.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.ValueTuple.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\vbc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\vbc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\vbc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\Antlr3.Runtime.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\EntityFramework.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\EntityFramework.SqlServer.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\Newtonsoft.Json.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\System.Web.Helpers.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\System.Web.Mvc.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\System.Web.Optimization.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\System.Web.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\System.Web.WebPages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\System.Web.WebPages.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\WebGrease.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\EntityFramework.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\EntityFramework.SqlServer.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\System.Web.Helpers.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\System.Web.Mvc.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\System.Web.Optimization.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\System.Web.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\System.Web.WebPages.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\System.Web.WebPages.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\Newtonsoft.Json.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\Antlr3.Runtime.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\obj\Debug\Hozio.csprojAssemblyReference.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\obj\Debug\Hozio.csproj.CopyComplete
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\obj\Debug\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\obj\Debug\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\Hozio.dll.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\csc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\csc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\csc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\csi.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\csi.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\csi.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.AppContext.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Console.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.IO.Compression.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Security.Claims.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.ValueTuple.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\vbc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\vbc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\vbc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\Antlr3.Runtime.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\EntityFramework.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\EntityFramework.SqlServer.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\Newtonsoft.Json.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\System.Web.Helpers.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\System.Web.Mvc.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\System.Web.Optimization.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\System.Web.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\System.Web.WebPages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\System.Web.WebPages.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\WebGrease.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\EntityFramework.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\EntityFramework.SqlServer.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\System.Web.Helpers.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\System.Web.Mvc.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\System.Web.Optimization.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\System.Web.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\System.Web.WebPages.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\System.Web.WebPages.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\Newtonsoft.Json.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\Antlr3.Runtime.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\obj\Debug\Hozio.csprojAssemblyReference.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\obj\Debug\Hozio.csproj.CopyComplete
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\obj\Debug\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\obj\Debug\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\obj\Debug\Hozio.Migrations.InitialCreate.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\obj\Debug\Hozio.csproj.GenerateResource.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\obj\Debug\Hozio.Migrations.client1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1address00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneGatekeeper00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\00 Hozio 1\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneNote00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\Hozio.dll.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\csc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\csc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\csc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\csi.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\csi.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\csi.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.AppContext.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Console.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Compression.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Claims.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.ValueTuple.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\vbc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\vbc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\vbc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\Antlr3.Runtime.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\EntityFramework.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\EntityFramework.SqlServer.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\Newtonsoft.Json.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\System.Web.Helpers.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\System.Web.Mvc.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\System.Web.Optimization.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\System.Web.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\System.Web.WebPages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\WebGrease.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\EntityFramework.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\EntityFramework.SqlServer.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\System.Web.Helpers.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\System.Web.Mvc.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\System.Web.Optimization.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\System.Web.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\System.Web.WebPages.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\Newtonsoft.Json.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\Antlr3.Runtime.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\obj\Debug\Hozio.csprojAssemblyReference.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.InitialCreate.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.client1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1address00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneGatekeeper00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneNote00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.GenerateResource.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.CopyComplete
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\obj\Debug\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio\Hozio\Hozio\obj\Debug\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\Hozio.dll.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\csc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\csc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\csc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\csi.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\csi.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\csi.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.AppContext.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Console.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.IO.Compression.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Security.Claims.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.ValueTuple.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\vbc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\vbc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\vbc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\Antlr3.Runtime.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\EntityFramework.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\EntityFramework.SqlServer.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\Newtonsoft.Json.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\System.Web.Helpers.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\System.Web.Mvc.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\System.Web.Optimization.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\System.Web.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\System.Web.WebPages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\System.Web.WebPages.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\WebGrease.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\EntityFramework.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\EntityFramework.SqlServer.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\System.Web.Helpers.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\System.Web.Mvc.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\System.Web.Optimization.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\System.Web.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\System.Web.WebPages.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\System.Web.WebPages.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\Newtonsoft.Json.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\Antlr3.Runtime.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\obj\Debug\Hozio.csprojAssemblyReference.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\obj\Debug\Hozio.Migrations.InitialCreate.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\obj\Debug\Hozio.Migrations.client1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1address00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneGatekeeper00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneNote00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\obj\Debug\Hozio.csproj.GenerateResource.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\obj\Debug\Hozio.csproj.CopyComplete
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\obj\Debug\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\Hozio - toe hold\Hozio\Hozio\obj\Debug\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\obj\Debug\Hozio.csprojAssemblyReference.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\obj\Debug\Hozio.Migrations.InitialCreate.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\obj\Debug\Hozio.Migrations.client1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1address00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneGatekeeper00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneNote00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\obj\Debug\Hozio.csproj.GenerateResource.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\obj\Debug\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\obj\Debug\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\Hozio.dll.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\csc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\csc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\csc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\csi.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\csi.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\csi.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.AppContext.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Console.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.IO.Compression.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Security.Claims.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.ValueTuple.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\vbc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\vbc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\vbc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\Antlr3.Runtime.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\EntityFramework.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\EntityFramework.SqlServer.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\Newtonsoft.Json.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\System.Web.Helpers.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\System.Web.Mvc.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\System.Web.Optimization.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\System.Web.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\System.Web.WebPages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\System.Web.WebPages.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\WebGrease.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\EntityFramework.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\EntityFramework.SqlServer.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\System.Web.Helpers.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\System.Web.Mvc.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\System.Web.Optimization.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\System.Web.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\System.Web.WebPages.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\System.Web.WebPages.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\Newtonsoft.Json.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\Antlr3.Runtime.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio 1\04_Hozio 220202-1400 - pre-ahref\Hozio\Hozio\obj\Debug\Hozio.csproj.CopyComplete
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\Hozio.dll.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\csc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\csc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\csc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\csi.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\csi.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\csi.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.AppContext.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Console.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Compression.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Claims.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.ValueTuple.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\vbc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\vbc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\vbc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\Antlr3.Runtime.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\EntityFramework.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\EntityFramework.SqlServer.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\Newtonsoft.Json.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\System.Web.Helpers.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\System.Web.Mvc.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\System.Web.Optimization.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\System.Web.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\System.Web.WebPages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\WebGrease.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\EntityFramework.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\EntityFramework.SqlServer.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\System.Web.Helpers.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\System.Web.Mvc.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\System.Web.Optimization.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\System.Web.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\System.Web.WebPages.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\Newtonsoft.Json.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\Antlr3.Runtime.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\obj\Debug\Hozio.csprojAssemblyReference.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.InitialCreate.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.client1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1address00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneGatekeeper00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneNote00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.GenerateResource.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.CopyComplete
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\obj\Debug\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\obj\Debug\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_Latest\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.postahrefCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\Hozio.dll.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\csc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\csc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\csc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\csi.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\csi.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\csi.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.AppContext.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Console.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.IO.Compression.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Security.Claims.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.ValueTuple.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\vbc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\vbc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\vbc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\Antlr3.Runtime.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\EntityFramework.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\EntityFramework.SqlServer.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\Newtonsoft.Json.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\System.Web.Helpers.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\System.Web.Mvc.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\System.Web.Optimization.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\System.Web.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\System.Web.WebPages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\System.Web.WebPages.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\WebGrease.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\EntityFramework.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\EntityFramework.SqlServer.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\System.Web.Helpers.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\System.Web.Mvc.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\System.Web.Optimization.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\System.Web.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\System.Web.WebPages.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\System.Web.WebPages.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\Newtonsoft.Json.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\Antlr3.Runtime.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.csprojAssemblyReference.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.InitialCreate.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.client1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1address00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneGatekeeper00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneNote00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.postahrefCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.csproj.GenerateResource.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.csproj.CopyComplete
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.postsiteCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\03 220204-1230 pre-siteCtrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.postsiteCtrl01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\Hozio.dll.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\csc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\csc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\csc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\csi.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\csi.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\csi.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.AppContext.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Console.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.IO.Compression.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Security.Claims.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.ValueTuple.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\vbc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\vbc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\vbc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\Antlr3.Runtime.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\EntityFramework.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\EntityFramework.SqlServer.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\Newtonsoft.Json.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\System.Web.Helpers.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\System.Web.Mvc.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\System.Web.Optimization.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\System.Web.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\System.Web.WebPages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\System.Web.WebPages.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\WebGrease.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\EntityFramework.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\EntityFramework.SqlServer.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\System.Web.Helpers.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\System.Web.Mvc.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\System.Web.Optimization.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\System.Web.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\System.Web.WebPages.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\System.Web.WebPages.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\Newtonsoft.Json.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\Antlr3.Runtime.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.csprojAssemblyReference.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.Migrations.InitialCreate.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.Migrations.client1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1address00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneGatekeeper00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneNote00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.Migrations.postahrefCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.Migrations.postsiteCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.Migrations.postsiteCtrl01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.csproj.GenerateResource.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.csproj.CopyComplete
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 post-siteCtrl - Copy\Hozio\Hozio\obj\Debug\Hozio.Migrations.prehog2Ctrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Hozio.dll.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\csc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\csc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\csc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\csi.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\csi.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\csi.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.AppContext.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Console.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.IO.Compression.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Security.Claims.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.ValueTuple.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\vbc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\vbc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\vbc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Antlr3.Runtime.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\EntityFramework.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\EntityFramework.SqlServer.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Newtonsoft.Json.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.Helpers.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.Mvc.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.Optimization.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.WebPages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.WebPages.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\WebGrease.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\EntityFramework.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\EntityFramework.SqlServer.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.Helpers.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.Mvc.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.Optimization.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.WebPages.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.WebPages.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Newtonsoft.Json.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Antlr3.Runtime.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.csprojAssemblyReference.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.InitialCreate.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.client1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1address00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneGatekeeper00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneNote00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.postahrefCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.postsiteCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.postsiteCtrl01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.prehog2Ctrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.csproj.GenerateResource.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.csproj.CopyComplete
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\toe holds\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.prehog2Ctrl01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Hozio.dll.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\csc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\csc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\csc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\csi.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\csi.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\csi.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.AppContext.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Console.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.IO.Compression.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Security.Claims.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.ValueTuple.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\vbc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\vbc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\vbc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Antlr3.Runtime.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\EntityFramework.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\EntityFramework.SqlServer.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Newtonsoft.Json.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.Helpers.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.Mvc.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.Optimization.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.WebPages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.WebPages.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\WebGrease.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\EntityFramework.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\EntityFramework.SqlServer.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.Helpers.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.Mvc.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.Optimization.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.WebPages.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\System.Web.WebPages.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Newtonsoft.Json.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Antlr3.Runtime.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.csprojAssemblyReference.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.InitialCreate.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.client1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1address00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneGatekeeper00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneNote00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.postahrefCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.postsiteCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.postsiteCtrl01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.prehog2Ctrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.Migrations.prehog2Ctrl01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.csproj.GenerateResource.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.csproj.CopyComplete
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\05 220204-1330 pre-hog2Ctrl\Hozio\Hozio\obj\Debug\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\Hozio.dll.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\csc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\csc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\csc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\csi.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\csi.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\csi.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.AppContext.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Console.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Compression.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Claims.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.ValueTuple.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\vbc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\vbc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\vbc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\Antlr3.Runtime.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\EntityFramework.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\EntityFramework.SqlServer.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\Newtonsoft.Json.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\System.Web.Helpers.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\System.Web.Mvc.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\System.Web.Optimization.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\System.Web.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\WebGrease.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\EntityFramework.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\EntityFramework.SqlServer.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\System.Web.Helpers.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\System.Web.Mvc.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\System.Web.Optimization.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\System.Web.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\Newtonsoft.Json.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\Antlr3.Runtime.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.csprojAssemblyReference.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.InitialCreate.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.client1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1address00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneGatekeeper00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneNote00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.postahrefCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.postsiteCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.postsiteCtrl01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.prehog2Ctrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.prehog2Ctrl01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.GenerateResource.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.CopyComplete
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.posthog2Ctrl01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.preclientCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.predocumentCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.preadminCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.HOG2ModelAdds00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Hozio.dll.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Hozio.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\csc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\csc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\csc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\csi.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\csi.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\csi.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.AppContext.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Console.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Compression.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Claims.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.ValueTuple.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\vbc.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\vbc.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\vbc.rsp
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Antlr3.Runtime.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\EntityFramework.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\EntityFramework.SqlServer.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Newtonsoft.Json.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.Helpers.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.Mvc.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.Optimization.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Razor.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\WebGrease.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\EntityFramework.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\EntityFramework.SqlServer.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.Helpers.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.Mvc.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.Optimization.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Razor.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Newtonsoft.Json.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Antlr3.Runtime.pdb
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.csprojAssemblyReference.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.InitialCreate.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.client1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1category00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1address00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneGatekeeper00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneNote00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.postahrefCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.postsiteCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.postsiteCtrl01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.prehog2Ctrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.prehog2Ctrl01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.posthog2Ctrl01.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.preclientCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.predocumentCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.preadminCtrl00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.HOG2ModelAdds00.resources
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.GenerateResource.cache
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.CopyComplete
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.dll
+C:\Users\3v3rh\Documents\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.pdb
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Hozio.dll.config
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Hozio.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Hozio.pdb
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\csc.exe
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\csc.exe.config
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\csc.rsp
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\csi.exe
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\csi.exe.config
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\csi.rsp
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.AppContext.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Collections.Immutable.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Console.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Compression.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Pipes.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Reflection.Metadata.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.AccessControl.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Claims.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Principal.Windows.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.ValueTuple.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XPath.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\vbc.exe
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\vbc.exe.config
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\vbc.rsp
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe.config
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Antlr3.Runtime.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\EntityFramework.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\EntityFramework.SqlServer.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Microsoft.Web.Infrastructure.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Newtonsoft.Json.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.Helpers.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.Mvc.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.Optimization.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.Razor.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Deployment.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Razor.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\WebGrease.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\EntityFramework.xml
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\EntityFramework.SqlServer.xml
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.Helpers.xml
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.Mvc.xml
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.Optimization.xml
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.Razor.xml
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.xml
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Deployment.xml
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Razor.xml
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Newtonsoft.Json.xml
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Antlr3.Runtime.pdb
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.AssemblyReference.cache
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.InitialCreate.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.client1category00.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1category00.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone00.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone01.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension00.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension01.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1address00.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneGatekeeper00.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneNote00.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.postahrefCtrl00.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.postsiteCtrl00.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.postsiteCtrl01.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.prehog2Ctrl00.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.prehog2Ctrl01.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.posthog2Ctrl01.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.preclientCtrl00.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.predocumentCtrl00.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.preadminCtrl00.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.HOG2ModelAdds00.resources
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.GenerateResource.cache
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.CoreCompileInputs.cache
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.dll
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.pdb
+D:\GSDB\_data\_previous\Lattitude\_data\_Tech\_hozio\_webApplication\Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.Up2Date
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\Hozio.dll.config
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\Hozio.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\Hozio.pdb
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\csc.exe
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\csc.exe.config
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\csc.rsp
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\csi.exe
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\csi.exe.config
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\csi.rsp
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.AppContext.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Console.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Compression.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.IO.Pipes.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Claims.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.ValueTuple.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\vbc.exe
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\vbc.exe.config
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\vbc.rsp
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\Antlr3.Runtime.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\EntityFramework.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\EntityFramework.SqlServer.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\Newtonsoft.Json.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\System.Web.Helpers.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\System.Web.Mvc.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\System.Web.Optimization.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\System.Web.Razor.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Razor.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\WebGrease.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\EntityFramework.xml
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\EntityFramework.SqlServer.xml
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\System.Web.Helpers.xml
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\System.Web.Mvc.xml
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\System.Web.Optimization.xml
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\System.Web.Razor.xml
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.xml
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\System.Web.WebPages.Razor.xml
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\Newtonsoft.Json.xml
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\Antlr3.Runtime.pdb
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.AssemblyReference.cache
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.InitialCreate.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.client1category00.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1category00.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone00.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phone01.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension00.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneExtension01.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1address00.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneGatekeeper00.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.contact1phoneNote00.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.postahrefCtrl00.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.postsiteCtrl00.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.postsiteCtrl01.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.prehog2Ctrl00.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.prehog2Ctrl01.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.posthog2Ctrl01.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.preclientCtrl00.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.predocumentCtrl00.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.preadminCtrl00.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.Migrations.HOG2ModelAdds00.resources
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.GenerateResource.cache
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.CoreCompileInputs.cache
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.csproj.Up2Date
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.dll
+C:\Users\3v3rh\_7560\Advertising\SEOv1-Hozio\Hozio\Hozio\Hozio\obj\Debug\Hozio.pdb

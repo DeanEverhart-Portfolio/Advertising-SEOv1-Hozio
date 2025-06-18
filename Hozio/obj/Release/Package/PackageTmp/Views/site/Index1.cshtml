@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Hozio.Models.site>
+
+@{
+    ViewBag.Title = "Ahref";
+}
+
+<h2>Ahref - Site Metrics</h2>
+
+<img src="/media/iconX-MasTree0-175.png" title="HOG" alt="HOG" /></a>
+<br />
+<br />
+
+
+@using (Html.BeginForm("Index", "site"))
+{
+    <p>
+        Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search">
+    </p>
+}
+<hr />
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ahrefs.domain)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.client1s.name)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ahrefs.domain)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.client1s.name)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.siteID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.siteID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.siteID })
+            </td>
+        </tr>
+    }
+
+</table>

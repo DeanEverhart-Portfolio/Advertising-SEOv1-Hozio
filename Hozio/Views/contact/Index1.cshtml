@@ -1,0 +1,88 @@
+﻿@model IEnumerable<Hozio.Models.contact>
+
+@{
+    ViewBag.Title = "Contacts Admin";
+}
+
+<h2>Contacts Admin</h2>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using (Html.BeginForm("index1", "contact"))
+
+{
+    <p>
+        Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search">
+    </p>
+}
+
+<hr />
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("Contact", "Index", new { sortOrder = ViewBag.sortLastName })
+        </th>
+        <th>
+            @Html.ActionLink("Client", "Index", new { sortOrder = ViewBag.sortName })
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.contact1s.fullPhone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.contact1s.phoneGatekeeper)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.contact1s.email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.contact1s.website)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.contact1s.fullAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.contact1s.phoneNote)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.contact1s.fullName)
+            </td>
+            <th>
+                @Html.DisplayFor(modelItem => item.client1s.name)
+            </th>
+            <td>
+                @Html.DisplayFor(modelItem => item.contact1s.fullPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.contact1s.phoneGatekeeper)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.contact1s.email)
+            </td>
+            <td>
+                <a href="@item.contact1s.website">@Html.DisplayFor(modelItem => item.contact1s.website)</a>
+            </td>
+            <td>
+                <a href="@item.contact1s.addressURL">@Html.DisplayFor(modelItem => item.contact1s.fullAddress)</a>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.contact1s.phoneNote)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.contact1ID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.contact1ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.contact1ID })
+            </td>
+
+        </tr>
+    }
+
+</table>

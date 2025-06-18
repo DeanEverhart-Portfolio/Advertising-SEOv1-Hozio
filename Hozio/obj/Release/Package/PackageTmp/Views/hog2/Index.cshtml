@@ -1,0 +1,145 @@
+﻿@model IEnumerable<Hozio.Models.hog2>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>HOG</h2>
+<h2>HOG - Client Run Status</h2>
+<img src="/media/iconHog0-2.png" title="HOG" alt="HOG" /></a>
+<br />
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.fullRun)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dev)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fullTemplate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.stringKeyword)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.content)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fullWriter)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.content1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.content2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.html)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fullMeta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.seo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.keyword)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.plugin)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hero)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hero1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.backup)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fullBuildExport)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.post)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.site)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.run)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.fullRun)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.dev)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.fullTemplate)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.stringKeyword)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.content)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.fullWriter)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.content1)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.content2)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.html)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.fullMeta)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.seo)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.plugin)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hero)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.hero1)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.backup)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.fullBuildExport)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.post)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.site)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.hog2ID }) |
+        @Html.ActionLink("Details", "Details", new { id = item.hog2ID }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.hog2ID })
+    </td>
+</tr>
+    }
+
+</table>

@@ -1,0 +1,650 @@
+﻿@model Hozio.Models.hog2
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>hog2</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.run)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.run)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stringRun)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stringRun)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.template)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.template)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateTemplate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateTemplate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.location)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.location)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.keyword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.keyword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stringKeyword)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stringKeyword)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stringKeyword1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stringKeyword1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.content)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.content)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.content1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.content1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateContent)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateContent)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateContent1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateContent1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stringContent)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stringContent)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.html)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.html)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateHtml)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateHtml)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.meta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.meta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stringMeta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stringMeta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateMeta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateMeta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.seo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.seo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateSeo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateSeo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.plugin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.plugin)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.datePlugin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.datePlugin)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.hero)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hero)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.hero1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hero1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stringHero)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stringHero)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateHero)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateHero)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.backup)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.backup)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stringBackup)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stringBackup)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateBackup)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateBackup)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.buildExport)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.buildExport)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateBuildExport)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateBuildExport)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stringBuildExport)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stringBuildExport)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.hog1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hog1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateHog)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateHog)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stringHog)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stringHog)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.post)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.post)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stringPost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stringPost)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.datePost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.datePost)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.site)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.site)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateSite)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateSite)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stringSite)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stringSite)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dev)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dev)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.hogOld)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hogOld)
+        </dd>
+
+        @*<dt>
+            @Html.DisplayNameFor(model => model.designator)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.designator)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.type)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.type)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.type1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.type1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.category)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.category)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.category1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.category1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tier)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tier)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.boolTier)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.boolTier)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stringTier)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stringTier)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.rank)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.rank)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stringRank)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stringRank)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.note)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.note)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.note1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.note1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.text)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.text)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.text1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.text1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.sort)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sort)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.sort1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sort1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tag)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tag)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tag1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tag1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.label)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.label)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.label1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.label1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.boolFlag)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.boolFlag)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.flag)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.flag)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.boolFlag1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.boolFlag1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.flag1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.flag1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.select)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.select)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.select1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.select1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.start)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.start)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.end)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.end)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateEnd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateEnd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.inactive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.inactive)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateInactive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateInactive)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.hold)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hold)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateHold)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateHold)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.recordCreated)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.recordCreated)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.recordInactive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.recordInactive)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dateRecordInactive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dateRecordInactive)
+        </dd>*@
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.hog2ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

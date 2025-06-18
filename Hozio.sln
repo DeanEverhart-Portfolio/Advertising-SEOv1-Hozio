@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hozio", "Hozio\Hozio.csproj", "{4529B147-D5F7-4AC1-BA9E-FB699E3CC921}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D453B256-133A-4034-9FF1-57A3B3CF6D06}"
+	ProjectSection(SolutionItems) = preProject
+		Hozio\_Existing Item\grant.sql = Hozio\_Existing Item\grant.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4529B147-D5F7-4AC1-BA9E-FB699E3CC921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4529B147-D5F7-4AC1-BA9E-FB699E3CC921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4529B147-D5F7-4AC1-BA9E-FB699E3CC921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4529B147-D5F7-4AC1-BA9E-FB699E3CC921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D1385FE-3EB0-4BBB-9C7B-353EDBDA3EB2}
+	EndGlobalSection
+EndGlobal
